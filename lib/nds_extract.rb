@@ -7,7 +7,7 @@ def directors_totals(nds)
   result = {}
 
   director = 0
-  movieIndex = 0
+  movie_index = 0
   while (director < nds.length)
 
     director += 1
