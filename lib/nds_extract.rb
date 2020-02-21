@@ -6,10 +6,11 @@ def directors_totals(nds)
 
   result = {}
 
-  index = 0
-  while (index < nds.length)
-    puts nds[index]
-    index += 1
+  director = 0
+  movieIndex = 0
+  while (director < nds.length)
+
+    director += 1
   end
   #
   # Use loops, variables and the accessing method, [], to loop through the NDS
