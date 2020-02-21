@@ -9,6 +9,7 @@ def directors_totals(nds)
   index = 0
   while (index < nds.length)
     puts nds[index]
+    index += 1
   end
   #
   # Use loops, variables and the accessing method, [], to loop through the NDS
