@@ -30,6 +30,7 @@ def directors_totals(nds)
   # ...
   #
   #
-  # Be sure to return the result at the end!
+  # Be sure to return the result at the end
+  pp result
   return result
 end
