@@ -4,7 +4,7 @@ require 'directors_database'
 def directors_totals(nds)
   pp nds
 
-  result = {}
+  result = Hash.new
 
   director = 0
   movie_index = 0
