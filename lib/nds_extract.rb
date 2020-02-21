@@ -18,6 +18,7 @@ def directors_totals(nds)
     end
     result[nds[director][:name]] => gross
     movie_index = 0
+    gross = 0
     director += 1
   end
   #
